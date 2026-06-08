@@ -11,3 +11,5 @@ Before engineering, I spent six years in product operations, customer experience
 **🌱 Exploring:** AI agents and agentic systems
 
 **💬 Ask me about:** shipping AI products to production, or turning user feedback into features
+
+Note: most of my production work lives in private repositories. Public projects and innovations are pinned below.
